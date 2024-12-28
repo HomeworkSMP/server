@@ -1,11 +1,11 @@
-# Consitution of HomeworkSMP
+# Constitution of HomeworkSMP
 
 ## 0. Introduction & Purpose
 
 HomeworkSMP is a Community Minecraft Server, originating from the Microsoft Community Discord Server.
 bla bla bla
 
-This consitution was established to ensure and guarantee the rights of server members, whilst limiting the power that the server owner may have.
+This Constitution was established to ensure and guarantee the rights of server members, whilst limiting the power that the server owner may have.
 
 ## 1. Definitions
 
@@ -40,8 +40,8 @@ This consitution was established to ensure and guarantee the rights of server me
     <li>An election, where the change is approved by a majority of the members</li>
     </ol>
 
-## X. Application of Consitution
+## X. Application of Constitution
 
-() This Constitution applies to...
+() This Constition applies to...
     (a) All members of HomeworkSMP
     (b)
