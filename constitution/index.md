@@ -1,5 +1,9 @@
 # Constitution of HomeworkSMP
 
+## Preamble
+
+We, the Members of HomeworkSMP, in the interest of fostering a fair, collaborative, and enjoyable Minecraft community, establish this Constitution to uphold the rights of Members and ensure the just governance of our server.
+
 ## 0. Introduction & Purpose
 
 HomeworkSMP is a Community Minecraft Server, originating from the Microsoft Community Discord Server.
@@ -34,8 +38,8 @@ This Constitution was established to ensure and guarantee the rights of server m
 
 (1) Major Server Changes includes, but is not limited to:
     <ol type="a">
-    <li>Introducting new plugins</li>
-    <li>Changing server configurations that may impact gameplay substantialy</li>
+    <li>Introducing new plugins</li>
+    <li>Changing server configurations that may impact gameplay substantially</li>
     </ol>
 
 (2) Major Server Changes listed in Section 5(1) should only be made after
@@ -44,12 +48,12 @@ This Constitution was established to ensure and guarantee the rights of server m
     <li>An election, where the change is approved by a majority of the members (Voting Rate >50%, For Votes >66%)</li>
     </ol>
 
-## 5. Transparency
+## 5. Elections
 
-## 6. Transfer of Power
+## 6. Transparency
 
-## X. Application of Constitution
+## 7. Transfer of Power
 
-() This Constition applies to...
-    (a) All members of HomeworkSMP
-    (b)
+## 8. Application of Constitution
+
+(1) This Constitution applies to Members of the HomeworkSMP.
