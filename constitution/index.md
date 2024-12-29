@@ -9,6 +9,12 @@ This Constitution was established to ensure and guarantee the rights of server m
 
 ## 1. Definitions
 
+<b>Members</b>, or <b>Members of HomeworkSMP</b> shall be defined as people who are in the HomeworkSMP Discord Server.
+
+<b>Owner</b> shall be defined as the person who is hosting the server.
+
+<b>Server</b> or <b>The Server</b> is referring to HomeworkSMP.
+
 ## 2. Rights & Freedoms of Members
 
 (1) All members should be able to <br>
@@ -24,21 +30,23 @@ This Constitution was established to ensure and guarantee the rights of server m
 
 ### 3.2 Power Distribution & Limitations
 
-## 4. Transfer of Power
-
-## 5. Changes to Server
+## 4. Changes to Server
 
 (1) Major Server Changes includes, but is not limited to:
     <ol type="a">
-    <li>    Introducting new plugins</li>
+    <li>Introducting new plugins</li>
     <li>Changing server configurations that may impact gameplay substantialy</li>
     </ol>
-    
-(2) Major Server Changes listed in Section 5(1) should only made after
+
+(2) Major Server Changes listed in Section 5(1) should only be made after
     <ol type="1">
-    <li>A formal announcement by the hostee notifying all members of the changes</li>
-    <li>An election, where the change is approved by a majority of the members</li>
+    <li>A formal announcement by the hostee notifying all members of the changes, and</li>
+    <li>An election, where the change is approved by a majority of the members (Voting Rate >50%, For Votes >66%)</li>
     </ol>
+
+## 5. Transparency
+
+## 6. Transfer of Power
 
 ## X. Application of Constitution
 
