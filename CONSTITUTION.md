@@ -142,7 +142,7 @@ In case of any conflict between this Constitution and any Server Rules (includin
         <li>Downtime, maintenance, and/or restarts;</li>
         <li>Hosting changes that affect server availability.</li>
     </ol></li>
-    <li>Members may request access to logs and/or decision records. These must be provided within a reasonable timeframe, unless deemed sensitive by the Server Owner.
+    <li>Members may request access to server logs (console logs). These must be provided within a reasonable timeframe, unless deemed sensitive by the Server Owner.
     <ol type="a">
         <li>Private messages must be redacted.</li>
         <li>IP addresses must be redacted.</li>
