@@ -90,7 +90,7 @@ In case of any conflict between this Constitution and any Server Rules (includin
         <li>Changing the Bedrock Edition and/or Pocket Edition port.</li>
     </ol></li>
     <li>Major Server Changes must follow this process:
-    <ol type="1">
+    <ol type="a">
         <li>A formal announcement must be made to all Members;</li>
         <li>An election must be held where the change is approved by at least 50% of voting Members.</li>
     </ol></li>
