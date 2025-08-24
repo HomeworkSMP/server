@@ -112,7 +112,7 @@ In case of any conflict between this Constitution and any Server Rules (includin
         <li>Most motions require a simple majority (>50%) to pass, unless otherwise specified;</li>
         <li>For votes that are not simple Yes/No, Ranked Choice Voting (RCV) shall be used where appropriate, and a minimum of 51% support is required to pass the motion.</li>
     </ol></li>
-    <li>Elections shall not be shorter than fourty-eight (48) hours, and may last up to one (1) week or seven (7) days, but the Server Owner shall deem the appropriate length of an election.</li>
+    <li>Elections shall not be shorter than forty-eight (48) hours, and may last up to one (1) week or seven (7) days, but the Server Owner shall deem the appropriate length of an election.</li>
     <li>In Ownership Elections, Section 11 is not applicable, and the Election must follow the following rules:
     <ol type="a">
         <li>Candidates must be nominated by at least five (5) Members.</li>
