@@ -254,5 +254,5 @@ In case of any conflict between this Constitution and any Server Rules (includin
         <li>Decentralization of power</li>
     </ol> </li>
     <li>If any discrepancies arise between versions of the Constitution, the PDF version shall be considered authoritative and final.</li>
-    <li>This Constitution shall be effective upon ratification by a simple majority vote and when it is signed into effect by the Server Host.</li>
+    <li>51. This Constitution shall be effective upon ratification by a simple majority vote and when it is signed into effect by the Server Host. If the approval percentage exceeds the supermajority, the signature of the Server Host is strictly ceremonial.</li>
 </ol>
